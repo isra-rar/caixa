@@ -28,6 +28,8 @@ namespace Caixa.Test.Domain
             _produtoRepository.Received().Create(Arg.Any<Produto>());
             Assert.Equal("Pastel de Frango", produto.Nome);
             Assert.Equal(5, produto.Valor);
+            Assert.Equal(10, produto.Quantidade);
+            Assert.Equal(ETipoProduto.SALGADO, produto.TipoProduto);
         }
     }
 }

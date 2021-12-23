@@ -15,3 +15,4 @@ C:\Learning\Caixa\Caixa.Infra\bin\Debug\net5.0\Caixa.Infra.runtimeconfig.dev.jso
 C:\Learning\Caixa\Caixa.Infra\bin\Debug\net5.0\Caixa.Domain.dll
 C:\Learning\Caixa\Caixa.Infra\bin\Debug\net5.0\Caixa.Domain.pdb
 C:\Learning\Caixa\Caixa.Infra\obj\Debug\net5.0\Caixa.Infra.genruntimeconfig.cache
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net5.0\Caixa.Infra.csproj.CopyComplete

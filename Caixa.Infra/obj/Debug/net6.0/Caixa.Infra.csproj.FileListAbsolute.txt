@@ -1,0 +1,17 @@
+C:\Learning\Caixa\Caixa.Infra\bin\Debug\net6.0\Caixa.Infra.deps.json
+C:\Learning\Caixa\Caixa.Infra\bin\Debug\net6.0\Caixa.Infra.runtimeconfig.json
+C:\Learning\Caixa\Caixa.Infra\bin\Debug\net6.0\Caixa.Infra.dll
+C:\Learning\Caixa\Caixa.Infra\bin\Debug\net6.0\ref\Caixa.Infra.dll
+C:\Learning\Caixa\Caixa.Infra\bin\Debug\net6.0\Caixa.Infra.pdb
+C:\Learning\Caixa\Caixa.Infra\bin\Debug\net6.0\Caixa.Domain.dll
+C:\Learning\Caixa\Caixa.Infra\bin\Debug\net6.0\Caixa.Domain.pdb
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.csproj.AssemblyReference.cache
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.AssemblyInfoInputs.cache
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.AssemblyInfo.cs
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.csproj.CoreCompileInputs.cache
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.csproj.CopyComplete
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.dll
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\ref\Caixa.Infra.dll
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.pdb
+C:\Learning\Caixa\Caixa.Infra\obj\Debug\net6.0\Caixa.Infra.genruntimeconfig.cache

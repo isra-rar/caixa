@@ -1,0 +1,12 @@
+C:\Learning\Caixa\Caixa.Domain\bin\Debug\net6.0\Caixa.Domain.deps.json
+C:\Learning\Caixa\Caixa.Domain\bin\Debug\net6.0\Caixa.Domain.dll
+C:\Learning\Caixa\Caixa.Domain\bin\Debug\net6.0\ref\Caixa.Domain.dll
+C:\Learning\Caixa\Caixa.Domain\bin\Debug\net6.0\Caixa.Domain.pdb
+C:\Learning\Caixa\Caixa.Domain\obj\Debug\net6.0\Caixa.Domain.csproj.AssemblyReference.cache
+C:\Learning\Caixa\Caixa.Domain\obj\Debug\net6.0\Caixa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Caixa\Caixa.Domain\obj\Debug\net6.0\Caixa.Domain.AssemblyInfoInputs.cache
+C:\Learning\Caixa\Caixa.Domain\obj\Debug\net6.0\Caixa.Domain.AssemblyInfo.cs
+C:\Learning\Caixa\Caixa.Domain\obj\Debug\net6.0\Caixa.Domain.csproj.CoreCompileInputs.cache
+C:\Learning\Caixa\Caixa.Domain\obj\Debug\net6.0\Caixa.Domain.dll
+C:\Learning\Caixa\Caixa.Domain\obj\Debug\net6.0\ref\Caixa.Domain.dll
+C:\Learning\Caixa\Caixa.Domain\obj\Debug\net6.0\Caixa.Domain.pdb

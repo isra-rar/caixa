@@ -87,3 +87,4 @@ C:\Learning\Caixa\Caixa.API\bin\Debug\net5.0\Caixa.Domain.dll
 C:\Learning\Caixa\Caixa.API\bin\Debug\net5.0\Caixa.Infra.dll
 C:\Learning\Caixa\Caixa.API\bin\Debug\net5.0\Caixa.Infra.pdb
 C:\Learning\Caixa\Caixa.API\bin\Debug\net5.0\Caixa.Domain.pdb
+C:\Learning\Caixa\Caixa.API\obj\Debug\net5.0\Caixa.API.csproj.CopyComplete

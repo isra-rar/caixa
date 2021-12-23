@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3jvLEeDyf6CROUWfoV+wj7Pfo9lWSE32izI3OJdGfyU=",
+  "Source": "Caixa.API",
+  "BasePath": "_content/Caixa.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

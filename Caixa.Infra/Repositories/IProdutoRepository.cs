@@ -13,6 +13,11 @@ namespace Caixa.Infra.Repositories
         public ProdutoRepository(DataContext context)
             => _context = context;
 
+        public Produto Get(Guid id)
+        {
+            var produto = _context.Produtos.Find(id);
+            return produto;
+        }
         public void Create(Produto produto)
         {
             _context.Produtos.Add(produto);
