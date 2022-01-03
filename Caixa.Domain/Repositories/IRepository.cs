@@ -7,7 +7,7 @@ namespace Caixa.Domain.Repositories
     {
         TEntity Get(Guid id);
         void Create(TEntity entity);
-        void Update(TEntity entity);
+        void Update(TEntity entity, Guid id);
         void Delete(Guid id);
     }
 }

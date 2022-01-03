@@ -49,5 +49,36 @@ namespace Caixa.API.Controllers
                 throw;
             }
         }
+
+        [HttpPut("{id:guid}")]
+        public IActionResult UpdateProduto(Guid id, Produto produto)
+        {
+            if (produto == null)
+                return BadRequest();
+
+            try
+            {
+                _produtoRepository.Update(produto, id);
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                throw;
+            }
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteProduto(Guid id)
+        {
+            try
+            {
+                _produtoRepository.Delete(id);
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                throw;
+            }
+        }
     }
 }

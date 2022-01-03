@@ -23,9 +23,11 @@ namespace Caixa.Infra.Repositories
             _context.Produtos.Add(produto);
             _context.SaveChanges();
         }
-        public void Update(Produto produto)
+        public void Update(Produto produto, Guid id)
         {
+            produto.Id = id;
             _context.Entry(produto).State = EntityState.Modified;
+            _context.Update(produto);
             _context.SaveChanges();
         }
         public void Delete(Guid id)

@@ -10,7 +10,7 @@ namespace Caixa.Domain.Entities
             CreationDate = DateTime.UtcNow;
         }
 
-        public Guid Id { get; private set; }
+        public Guid Id { get; set; }
         public DateTime CreationDate { get; private set; }
     }
 }
