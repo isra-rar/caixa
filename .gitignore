@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/Caixa
+/Caixa.Api/bin/
+/Caixa.Api/obj/`
+/Caixa.Domain/bin/
+/Caixa.Domain/obj/
+/Caixa.Infra/bin/
+/Caixa.Infra/obj/
+/Caixa.Test/bin/
+/Caixa.Test/obj/
